@@ -9,3 +9,7 @@ Language: cpp | Runtime: 0 ms | Memory: 8.3 MB
 ## Approach 2 — solution_2.cpp
 Solved on 2026-10-11
 Language: cpp | Runtime: 0 ms | Memory: 8.3 MB
+
+## Approach 3 — solution_3.cpp
+Solved on 2026-10-11
+Language: cpp | Runtime: 0 ms | Memory: 8.5 MB
