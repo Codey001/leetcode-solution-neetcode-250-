@@ -9,14 +9,15 @@ public:
 
             if(i!=0 && nums[i] == nums[i-1] && nums[i] == 1){
                 cnt++;
-                maxCnt = max(cnt, maxCnt);
+                // maxCnt = max(cnt, maxCnt);
             }else if (nums[i] == 1){
                 cnt = 1;
             }else{
                 cnt = 0;
             }
+            maxCnt = max(cnt, maxCnt);
         }
-        maxCnt = max(cnt, maxCnt);
+        
         return maxCnt;
     }
 };
