@@ -1,0 +1,7 @@
+# Set Matrix Zeroes
+
+[Problem link](https://leetcode.com/problems/set-matrix-zeroes/)
+
+## Approach 1 — solution_1.cpp
+Solved on 2026-11-07
+Language: cpp | Runtime: 30 ms | Memory: 21.9 MB
