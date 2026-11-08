@@ -28,10 +28,10 @@ public:
         }
         vector<int> ans;
         int reqfreq = nums.size()/3;
-        if(freq1 > reqfreq && count1 == freq1){
+        if(freq1 > reqfreq ){
             ans.push_back(candidate1);
         }   
-        if(freq2 > reqfreq && count2 == freq2){
+        if(freq2 > reqfreq ){
             ans.push_back(candidate2);
         }
 
